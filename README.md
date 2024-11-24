@@ -1,6 +1,6 @@
-## NAME: JENIL PIO J
-## REG. NO. : 212223220040
-## Monitoring-distance-value-in-Thing-speak-cloud-using-ultrasonic-sensor-and-ESP32-controller
+ NAME: JENIL PIO J
+ 
+ REG. NO. : 212223220040
 
 # Uploading ultrasonic sensor data in Thing Speak cloud
 
